@@ -5,7 +5,7 @@ public class NotificationSystem {
         Notifiable push = new PushNotification("This is a Push Notification");
 
         sms.sendNotification();
-        email.sendNotification();   
+        email.sendNotification();
         push.sendNotification();
     }
 }
