@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="58dp"
+        android:text="&quot;It&apos;s a long time since I washed . . .&quot; said Alehin with embarrassment, giving himself a second&#xA;soaping, and the water near him turned dark blue, like ink.&#xA;Ivan Ivanovitch went outside, plunged into the water with a loud splash, and swam in the rain,&#xA;flinging his arms out wide. He stirred the water into waves which set the white lilies bobbing up and&#xA;down; he swam to the very middle of the millpond and dived, and came up a minute later in another&#xA;place, and swam on, and kept on diving, trying to touch the bottom.&#xA;&quot;Oh, my goodness!&quot; he repeated continually, enjoying himself thoroughly. &quot;Oh, my goodness!&quot; He&#xA;swam to the mill, talked to the peasants there, then returned and lay on his back in the middle of the&#xA;pond, turning his face to the rain. Burkin and Alehin were dressed and ready to go, but he still went&#xA;on swimming and diving. &quot;Oh, my goodness! . . .&quot; he said. &quot;Oh, Lord, have mercy on me! . . .&quot;&#xA;&quot;That&apos;s enough!&quot; Burkin shouted to him.&#xA;They went back to the house. And only when the lamp was lighted in the big drawing-room upstairs,&#xA;and Burkin and Ivan Ivanovitch, attired in silk dressing-gowns and warm slippers, were sitting in&#xA;arm-chairs; and Alehin, washed and combed, in a new coat, was walking about the drawing-room,&#xA;evidently enjoying the feeling of warmth, cleanliness, dry clothes, and light shoes; and when lovely"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="210dp"
+        android:layout_height="391dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="404dp"
+        android:layout_marginEnd="58dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/gooseberries" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Pelagea, stepping noiselessly on the carpet and smiling softly, handed tea and jam on a tray -- only&#xA;then Ivan Ivanovitch began on his story, and it seemed as though not only Burkin and Alehin were&#xA;listening, but also the ladies, young and old, and the officers who looked down upon them sternly&#xA;and calmly from their gold frames.&#xA;&quot;There are two of us brothers,&quot; he began --&quot;I, Ivan Ivanovitch, and my brother, Nikolay Ivanovitch,&#xA;two years younger. I went in for a learned profession and became a veterinary surgeon, while&#xA;Nikolay sat in a government office from the time he was nineteen. Our father, Tchimsha-&#xA;Himalaisky, was a kantonist, but he rose to be an officer and left us a little estate and the rank of&#xA;nobility. After his death the little estate went in debts and legal expenses; but, anyway, we had spent&#xA;our childhood running wild in the country. Like peasant children, we passed our days and nights in&#xA;the fields and the woods, looked after horses,stripped the bark off the trees, fished, and so on. . . .&#xA;And, you know, whoever has once in his life caught perch or has seen the migrating of the thrushes&#xA;in autumn, watched how they float in flocks over the village on bright, cool days, he will never be a&#xA;real townsman, and will have a yearning for freedom to the day of his death. My brother was&#xA;miserable in the government office. Years passed by, and he went on sitting in the same place, went&#xA;on writing the same papers and thinking of one and the same thing -- how to get into the country.&#xA;And this yearning by degrees passed into a definite desire, into a dream of buying himself a little&#xA;farm somewhere on the banks of a river or a lake." />
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ivan Ivanovitch begins telling the story of his brother Nikolay. [1] Nikolay worked in a government office but longed to escape to the countryside and buy a small farm, dreaming of eating his own vegetables and living a simple life surrounded by nature. [2] However, Ivan did not share his brother&apos;s desire to isolate himself on a farm, believing a person needs the whole world, not just a small plot of land, to fully develop themselves. [3] Nikolay was particularly fixated on the idea of owning gooseberry bushes as part of his imagined idyllic country home." />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/e5f52dfab513a9cd6392348337db560f" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
