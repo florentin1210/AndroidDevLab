@@ -1,0 +1,66 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/dateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick a Date" />
+
+    <TextView
+        android:id="@+id/dateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Selected Date: " />
+
+    <Button
+        android:id="@+id/timeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick a Time" />
+
+    <TextView
+        android:id="@+id/timeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Selected Time: " />
+
+    <EditText
+        android:id="@+id/maxSeatsEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter max seats"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/occupiedSeatsEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter occupied seats"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/destinationEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Enter destination"
+        android:inputType="text" />
+    <Button
+        android:id="@+id/addCommuteButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Commute" />
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back to Menu"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>

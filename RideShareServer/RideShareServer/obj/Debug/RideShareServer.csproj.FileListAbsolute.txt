@@ -1,0 +1,7 @@
+D:\TrueRideShare\RideShareServer\RideShareServer\bin\Debug\RideShareServer.exe.config
+D:\TrueRideShare\RideShareServer\RideShareServer\bin\Debug\RideShareServer.exe
+D:\TrueRideShare\RideShareServer\RideShareServer\bin\Debug\RideShareServer.pdb
+D:\TrueRideShare\RideShareServer\RideShareServer\obj\Debug\RideShareServer.csproj.AssemblyReference.cache
+D:\TrueRideShare\RideShareServer\RideShareServer\obj\Debug\RideShareServer.csproj.CoreCompileInputs.cache
+D:\TrueRideShare\RideShareServer\RideShareServer\obj\Debug\RideShareServer.exe
+D:\TrueRideShare\RideShareServer\RideShareServer\obj\Debug\RideShareServer.pdb

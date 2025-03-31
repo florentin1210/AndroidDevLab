@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome!"
+        android:textSize="24sp"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/btnPlanCommute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Plan Commute"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp"
+        android:padding="16dp"/>
+
+    <Button
+        android:id="@+id/btnYourCommutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Commutes"
+        android:textColor="#FFFFFF"
+        android:padding="16dp"/>
+
+</LinearLayout>
